@@ -26,6 +26,16 @@
       "capacity": 50,
       "badge": "x2 АКЦИЯ",
       "enabled": true
+    },
+    {
+      "id": "golden-main",
+      "name": "GOLDEN",
+      "mode": "Role Play",
+      "host": "5.39.108.50",
+      "port": 4377,
+      "capacity": 50,
+      "badge": "x2 АКЦИЯ",
+      "enabled": true
     }
   ],
   "news": [
