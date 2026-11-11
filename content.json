@@ -22,6 +22,15 @@
       "mode": "Role Play",
       "host": "5.39.108.50",
       "port": 4377,
+      "capacity": 100,
+      "enabled": true
+    }
+    {
+      "id": "golden-two",
+      "name": "GOLDEN 2",
+      "mode": "Test",
+      "host": "5.39.108.50",
+      "port": 4477,
       "capacity": 50,
       "enabled": true
     }
