@@ -29,7 +29,7 @@
     },
     {
       "id": "golden-two",
-      "name": "GOLDEN",
+      "name": "Dev",
       "mode": "Dev",
       "host": "5.39.108.50",
       "port": 4477,
