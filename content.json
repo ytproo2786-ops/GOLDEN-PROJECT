@@ -18,8 +18,8 @@
   "servers": [
     {
       "id": "gold",
-      "name": "GOLD",
-      "mode": "Medium RP",
+      "name": "Dev",
+      "mode": "Test RP",
       "host": "127.0.0.1",
       "port": 7777,
       "capacity": 350,
@@ -41,7 +41,7 @@
       "date": "01.07.2026",
       "title": "Первая часть Летнего обновления",
       "summary": "Улучшенная оптимизация, новые локации и транспорт",
-      "image": "https://CHANGE-ME-CONFIG-HOST.example/images/news-summer.png",
+      "image": "https://raw.githubusercontent.com/ytproo2786-ops/GOLDEN-PROJECT/refs/heads/main/images/news-summer.png",
       "url": "https://golden-devs.rf.gd/news/summer-update/",
       "featured": true
     },
@@ -50,7 +50,7 @@
       "date": "09.05.2026",
       "title": "Городской автосалон",
       "summary": "",
-      "image": "https://CHANGE-ME-CONFIG-HOST.example/images/news-event.png",
+      "image": "https://raw.githubusercontent.com/ytproo2786-ops/GOLDEN-PROJECT/refs/heads/main/images/news-event.png",
       "url": "https://golden-devs.rf.gd/news/city-auto-show/",
       "featured": false
     },
@@ -59,7 +59,7 @@
       "date": "07.03.2026",
       "title": "Сезон тёплой весны",
       "summary": "",
-      "image": "https://CHANGE-ME-CONFIG-HOST.example/images/news-spring.png",
+      "image": "https://raw.githubusercontent.com/ytproo2786-ops/GOLDEN-PROJECT/refs/heads/main/images/news-spring.png",
       "url": "https://golden-devs.rf.gd/news/spring-season/",
       "featured": false
     }
