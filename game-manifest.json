@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "baseUrl": "https://CHANGE-ME-TO-YOUR-CDN.example/game/",
+  "version": "0.0.1",
+  "baseUrl": "https://raw.githubusercontent.com/ytproo2786-ops/GOLDEN-PROJECT/refs/heads/main/game/",
   "executable": "samp.exe",
   "dependencies": [],
   "files": []
