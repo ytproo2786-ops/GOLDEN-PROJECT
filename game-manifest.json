@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "baseUrl": "https://CHANGE-ME-TO-YOUR-CDN.example/game/",
+  "executable": "samp.exe",
+  "dependencies": [],
+  "files": []
+}

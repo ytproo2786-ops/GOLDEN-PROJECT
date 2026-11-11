@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "minimumVersion": "1.0.0",
+  "downloadUrl": "",
+  "sha256": "",
+  "releaseNotes": "Первый публичный выпуск лаунчера.",
+  "mandatory": false,
+  "installerArguments": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+}
