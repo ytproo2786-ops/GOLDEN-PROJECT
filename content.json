@@ -23,18 +23,18 @@
       "mode": "Role Play",
       "host": "5.39.108.50",
       "port": 4377,
-      "capacity": 50,
+      "capacity": 0,
       "badge": "x2 АКЦИЯ",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "golden-two",
       "name": "GOLDEN",
-      "mode": "Role Play",
+      "mode": "Dev",
       "host": "5.39.108.50",
-      "port": 4377,
-      "capacity": 50,
-      "badge": "x2 АКЦИЯ",
+      "port": 4477,
+      "capacity": 100,
+      "badge": "ЗБТ",
       "enabled": true
     }
   ],
