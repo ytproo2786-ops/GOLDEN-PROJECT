@@ -24,7 +24,7 @@
       "port": 4377,
       "capacity": 100,
       "enabled": true
-    }
+    },
     {
       "id": "golden-two",
       "name": "GOLDEN 2",
