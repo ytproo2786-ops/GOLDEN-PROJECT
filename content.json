@@ -50,7 +50,7 @@
       "date": "07.03.2026",
       "title": "Сезон тёплой весны",
       "summary": "",
-      "image": "https://CHANGE-ME-CONFIG-HOST.example/images/news-spring.png",
+      "image": "https://raw.githubusercontent.com/ytproo2786-ops/GOLDEN-PROJECT/refs/heads/main/images/news-spring.png",
       "url": "https://golden-devs.rf.gd/news/spring-season/",
       "featured": false
     }
